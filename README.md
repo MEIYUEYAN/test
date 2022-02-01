@@ -10,7 +10,7 @@ Twist
 
 LAB01 https://youtu.be/9s_FqqUYtQA -automatic [GitHub] (http:github.com)
 
-Code: https://github.com/MEIYUEYAN/21006588/blob/main/LAB/Twist
+Code: https://github.com/MEIYUEYAN/21006588.git
 
 02
 
